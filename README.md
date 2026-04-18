@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 ### Gaming Channel YT stats:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC39fS5Y68tESUqZ7EtqRq-g)<br>
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC39fS5Y68tESUqZ7EtqRq-g)
+
+### Electronics Channel stats:
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCuekDids28qhgKr0H3Y7Kvg)<br>
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuekDids28qhgKr0H3Y7Kvg)
