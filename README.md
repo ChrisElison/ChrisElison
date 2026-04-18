@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Gaming Channel YT stats:
-Subs: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC39fS5Y68tESUqZ7EtqRq-g)
-Views: ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC39fS5Y68tESUqZ7EtqRq-g)
+### Gaming Channel YT stats:
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC39fS5Y68tESUqZ7EtqRq-g)<br>
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC39fS5Y68tESUqZ7EtqRq-g)
