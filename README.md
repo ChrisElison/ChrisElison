@@ -1,8 +1,9 @@
 <h1 align="center">Christopher Elison</h1>
 
 ### About Me
-Welcome to my GitHub profile, I'm Chris Elison. I run two YouTube channels, Chris Elison Gaming and Chris Elison Electronics. I am interested in computing, electronics, programming, web development, 
-Linux, making videos for YouTube and playing PC games. I have a website at chriselison.uk.
+Welcome to my GitHub profile, I'm Chris Elison. I run two YouTube channels, [Chris Elison Gaming](https://youtube.com/@ChrisElison) and 
+[Chris Elison Electronics]((https://youtube.com/@ChrisElisonElectronics). I am interested in 
+computing, electronics, programming, web development, Linux, making videos for YouTube and playing PC games. I have a website at [chriselison.uk](https://chriselison.uk/).
 
 ### My GitHub Profile Language Stats
 
@@ -45,6 +46,8 @@ Here are some ideas to get you started:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Alacritty](https://img.shields.io/badge/alacritty-%23F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
 
 ### PC Specs
 ![Nvidia 4090](https://img.shields.io/badge/NVIDIA-RTX4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
