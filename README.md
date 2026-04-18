@@ -2,7 +2,7 @@
 
 ### About Me
 Welcome to my GitHub profile, I'm Chris Elison. I run two YouTube channels, [Chris Elison Gaming](https://youtube.com/@ChrisElison) and 
-[Chris Elison Electronics]((https://youtube.com/@ChrisElisonElectronics). I am interested in 
+[Chris Elison Electronics](https://youtube.com/@ChrisElisonElectronics). I am interested in 
 computing, electronics, programming, web development, Linux, making videos for YouTube and playing PC games. I have a website at [chriselison.uk](https://chriselison.uk/).
 
 ### My GitHub Profile Language Stats
