@@ -1,4 +1,9 @@
-## Hi there 👋
+### About Me
+Welcome to my GitHub profile, I'm Chris Elison. I run two YouTube channels, Chris Elison Gaming and Chris Elison Electronics. I am interested in programming, web development, computing, Linux, making videos for YouTube and playing PC games. I have a website at chriselison.uk.
+
+### GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisElison&layout=compact&theme=dark)
 
 <!--
 **ChrisElison/ChrisElison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
