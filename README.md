@@ -6,7 +6,7 @@ Linux, making videos for YouTube and playing PC games. I have a website at chris
 
 ### My GitHub Profile Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisElison&layout=compact&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisElison&layout=compact&theme=dracula)
 
 <!--
 **ChrisElison/ChrisElison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
