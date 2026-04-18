@@ -34,7 +34,15 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
+### PC Specs
+![Nvidia 4090](https://img.shields.io/badge/NVIDIA-RTK4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel i9](https://img.shields.io/badge/Intel-Core_i9_14th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Ubuntu Linu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Gaming Channel YT stats:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC39fS5Y68tESUqZ7EtqRq-g)<br>
