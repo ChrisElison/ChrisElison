@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuekDids28qhgKr0H3Y7Kvg)
 
 ### Get in Contact:
-![image search api](https://user-images.githubusercontent.com/110724391/184472398-c590b47c-e1f2-41f8-87e6-2a1f68e8850d.png)[(Youtube)](https://www.youtube.com/watch?v=3HIr0imLgxM)
+[![Alt text]([image-url](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white))](target-url)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
