@@ -7,6 +7,8 @@ computing, electronics, programming, web development, Linux, making videos for Y
 website at [chriselison.uk](https://chriselison.uk/). I'm also slowly developing [chriselisonelectronics.com](https://chriselisonelectronics.com/) which will be my electronics
 blog and accompaniment to my electronics YouTube channel.
 
+On this profile I will be uploading all my electronics Arduino code, as well as the source code for my websites and my various coding/web development exercises and projects.
+
 ### My GitHub Profile Language Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisElison&layout=compact&theme=prussian)
@@ -66,6 +68,7 @@ Here are some ideas to get you started:
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuekDids28qhgKr0H3Y7Kvg)
 
 ### Get in Contact:
+[![X]([link to image on GH](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white))](https://x.com/ChrisElison)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
