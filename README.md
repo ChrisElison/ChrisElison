@@ -11,7 +11,7 @@ On this profile I will be uploading all my electronics Arduino code, as well as 
 
 ### My GitHub Profile Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisElison&layout=compact&theme=prussian)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisElison&layout=compact&theme=prussian&v=1)
 
 <!--
 **ChrisElison/ChrisElison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
