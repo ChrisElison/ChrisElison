@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![Intel i9](https://img.shields.io/badge/Intel-Core_i9_14th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Ubuntu Linu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+<!--
 ### Gaming Channel Stats:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC39fS5Y68tESUqZ7EtqRq-g)<br>
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC39fS5Y68tESUqZ7EtqRq-g)
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ### Electronics Channel Stats:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCuekDids28qhgKr0H3Y7Kvg)<br>
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuekDids28qhgKr0H3Y7Kvg)
-
+-->
 ### Get in Contact:
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ChrisElison)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/chriselison.bsky.social)
