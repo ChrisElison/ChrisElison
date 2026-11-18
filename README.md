@@ -1,7 +1,7 @@
 <h1 align="center">Christopher Elison</h1>
 
 ### About Me
-Welcome to my GitHub profile, I'm Chris Elison. I have three YouTube channels, [Chris Elison Tech](https://youtube.com/@ChrisElisonTech) [Chris Elison Gaming](https://youtube.com/@ChrisElison) and 
+Welcome to my GitHub profile, I'm Chris Elison. I have three YouTube channels, [Chris Elison Tech](https://youtube.com/@ChrisElisonTech), [Chris Elison Gaming](https://youtube.com/@ChrisElison) and 
 [Chris Elison Electronics](https://youtube.com/@ChrisElisonElectronics). I am interested in 
 computing, electronics, programming, web development, Linux, making videos for YouTube and playing PC games. I have a 
 website at [chriselison.uk](https://chriselison.uk/). I'm also slowly developing [chriselisonelectronics.com](https://chriselisonelectronics.com/) which will be my electronics
